@@ -1,0 +1,22 @@
+{
+  "name": "chatwithyoutube",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@langchain/anthropic": "^0.3.26",
+    "@langchain/core": "^0.3.72",
+    "@langchain/langgraph": "^0.4.8",
+    "@langchain/openai": "^0.6.9",
+    "@langchain/textsplitters": "^0.1.0",
+    "joi": "^18.0.1",
+    "langchain": "^0.3.31",
+    "zod": "^3.25.76"
+  }
+}
